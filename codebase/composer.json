@@ -1,4 +1,9 @@
 {
+    "name": "demmonico/skeleton-php7.4-mysql8",
+    "type": "project",
+    "license": "MIT",
+    "description": "Skeleton for projects PHP 7.4 / MySQL 8.0",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.4.0",
         "ext-json": "*"
